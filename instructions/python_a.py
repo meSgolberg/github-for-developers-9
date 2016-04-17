@@ -1,2 +1,2 @@
 a=1.25
-print "value a=" + str(a)
+print "From python script. a=" + str(a)
