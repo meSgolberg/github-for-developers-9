@@ -1,2 +1,4 @@
-a=1.25
-print "From python script. a=" + str(a)
+import random
+maxNumb=10
+nR=random.randint(1,maxNumb)
+print nR
